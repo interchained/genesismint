@@ -9,7 +9,7 @@ require (
 	github.com/btcsuite/btcd v0.21.0-beta
 	github.com/btcsuite/btcutil v1.0.2
 	github.com/confio/ics23/go v0.6.3
-	github.com/interchained/iavl v0.15.4 // bump
+	github.com/interchained/iavl v0.16.1 // bump
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/go-kit/kit v0.10.0
 	github.com/go-logfmt/logfmt v0.5.0
@@ -29,7 +29,7 @@ require (
 	github.com/spf13/cobra v1.1.1
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.7.0
-	github.com/interchained/gm-db v0.6.5 // bump
+	github.com/interchained/gm-db v0.6.6 // bump
 	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9
 	golang.org/x/net v0.0.0-20201021035429-f5854403a974
 	google.golang.org/grpc v1.37.0
